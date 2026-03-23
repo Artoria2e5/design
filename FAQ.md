@@ -60,7 +60,7 @@ We think so. There was an early
 that decoding a binary WebAssembly-like format into asm.js can be efficient.
 And as the WebAssembly design has changed there have been
 [more](https://github.com/WebAssembly/polyfill-prototype-2)
-[experiments](https://github.com/WebAssembly/binaryen/blob/master/src/wasm2asm.h)
+[experiments](https://github.com/WebAssembly/binaryen/blob/master/src/wasm2js.h)
 with polyfilling.
 
 Overall, optimism has been increasing for quick adoption of WebAssembly in
